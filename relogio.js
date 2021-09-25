@@ -2,7 +2,7 @@ var hora = document.getElementById("hora");
 var minuto = document.getElementById("minuto");
 var segundo = document.getElementById("segundo");
 
-var clock = setInterval(function time() {
+var relogio = setInterval(function time() {
     var data_now = new Date();
     var hr = data_now.getHours();
     var min = data_now.getMinutes();
