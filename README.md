@@ -1,6 +1,6 @@
 # Relogio
-<img src="assets/Relogio-Digital-com-Javascript" alt="gif mostrando na prática">
 
+<img src="assets/Relogio.gif" alt="gif mostrando na prática">
 
 <h2 id="objetivo">Objetivo:</h2>
 <p>
